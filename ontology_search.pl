@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 use Bio::OntologyIO;
 use strict;
 use Pod::Usage;
