@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 use strict;
 use warnings;
 @ARGV == 2 or die("The arguments should be <phenolyzer_gene_list> <wANNOVAR query.exome/genome_summary.txt>");
